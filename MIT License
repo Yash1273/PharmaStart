@@ -1,0 +1,11 @@
+
+---
+
+### **Step 8: GitHub Deployment**
+1. Create new repository on GitHub
+2. Upload all files
+3. Enable GitHub Pages:
+   - Go to Repository Settings > Pages
+   - Select Branch: `main`
+   - Select Folder: `/ (root)`
+4. Your site will be live at:
